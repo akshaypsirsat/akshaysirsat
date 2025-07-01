@@ -30,3 +30,8 @@
 
 ### 📫 Reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-s-5a1151209)
+
+![AWS](https://img.shields.io/badge/AWS-certified-orange)
+![Terraform](https://img.shields.io/badge/Terraform-Modules-blue)
+![Python](https://img.shields.io/badge/Python-3.x-yellow)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Hands--on-green)
